@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mi-proyecto-seo.vercel.app/api/sitemap
+Sitemap: https://semana-14-blue.vercel.app/api/sitemap

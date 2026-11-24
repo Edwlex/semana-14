@@ -1,4 +1,4 @@
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://mi-proyecto-seo.vercel.app";
+const BASE_URL = "https://semana-14-blue.vercel.app";
 
 // Simula una consulta a una base de datos o CMS (puedes cambiarlo por fetch() a tu API/CMS o consulta a BD)
 async function obtenerArticulosDesdeCMS() {
