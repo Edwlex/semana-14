@@ -7,6 +7,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Mi App",
   description: "Aplicación con fuente optimizada",
+  verification: {
+    google: "zke4rlTsPgubLwzUGrVl8yZoddQ3zm-8bIJxpxvX_tg",
+  },
 };
 
 interface RootLayoutProps {
